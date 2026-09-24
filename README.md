@@ -1,4 +1,5 @@
 **Praktikum 2 - Prepocessing**
+
 Mata Kuliah: Pembelajaran Mesin (INF62325) Nama : Naula Alfiyatul Fauziyyah NIM : 2488010063
 
 Ringkasan
